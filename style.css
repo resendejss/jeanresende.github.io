@@ -2,4 +2,9 @@
 
 p{
     color: red;
+    font-size: 1em;
+}
+
+p.descricao{
+    color: black;
 }
